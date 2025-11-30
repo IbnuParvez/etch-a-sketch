@@ -28,5 +28,12 @@ button.change {
 
 button.reset {
   background-color: antiquewhite;
+}
 
+.container {
+  display: grid;
+  background-color: aliceblue;
+  border: 1px black;
+  top: 30px;
+  margin: 0 auto;
 }
