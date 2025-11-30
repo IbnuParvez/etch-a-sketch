@@ -1,11 +1,10 @@
 body {
-background-color: grey;
+background-color: rgb(167, 160, 160);
 display: flex;
 flex-direction: column;
 justify-content: flex-start;
 align-items: center;
 }
-
 
 button  {
   width: 200px;
@@ -33,4 +32,4 @@ button.reset {
 }
 
 .container { display: flex; flex-wrap: wrap; width: 650px; height: 650px; }
-.grid-item { width: calc(100% / 16); height: calc(100% / 16); box-sizing: border-box; border: 1px solid #ddd; }
+.grid-item { width: calc(100% / 16); height: calc(100% / 16); box-sizing: border-box; border: 1px solid whitesmoke; }
